@@ -79,9 +79,10 @@ How does  RadVax interact with the commercial vaccines?
 You can and should take a commercial vaccine as soon as you are able to.  
 
 You can also take RadVax, as there should be no negative interactions between them. RadVax recruits a different part of the immune system than commercial vaccines (T-cells, as opposed to B-cells), so it is a complement, not a substitute.  It will provide additional protection to you and your family that you can't get from commercial vaccines, so you should still take both.
-In which ways is RadVax better than commercial vaccines?
 
-# RadVax has a few strengths that commercial vaccines don't, both on the personal level, but also on a public-policy level.
+# In which ways is RadVax better than commercial vaccines?
+RadVax has a few strengths that commercial vaccines don't, both on the personal level, but also on a public-policy level.
+
 ### Personal benefits
 Taking two different vaccines can produce synergistic effects, making RadVax + commercial a better choice than commercial alone:
 https://www.npr.org/sections/health-shots/2021/05/05/993882203/giving-2-doses-of-different-covid-19-vaccine-could-boost-immune-response
