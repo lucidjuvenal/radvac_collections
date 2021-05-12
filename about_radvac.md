@@ -15,15 +15,15 @@ Each of these technologies has been used safely for many years - RaDVaC is prima
 
 Here is what each of the components do:
 
-## Nasal delivery
+### Nasal delivery
 This just means spraying the virus directly into the nose (allergy sprays, and some flu vaccines use the same approach).  Since no needles or injections are required, the virus can be administered by anyone.  Nasal delivery also means that the system-wide immune response isn't as strong as with an injection.  This makes the vaccine safer, but also means that it needs to be taken 3 or 4 times (instead of just 1 or 2 injections).
 
-## Chitosan nanoparticles
+### Chitosan nanoparticles
 The chitosan nanoparticles serve two purposes.  The first is as a transport system, which brings the protein fragments into the body.  Because the nanoparticles are about the same size as the COVID virus, they travel to the same parts of the nasal tissues, bringing the protein fragments with them.  The nanoparticles also help keep the protein fragments in place long enough for the body to respond.  
 
 The second purpose of chitosan is as an "adjuvant", something which stimulates the immune system, telling the body that it needs to fight an invader.  Chitosan has been used in clinical trials, and found safe enough that the EU has recommended it for use as an adjuvant in vaccines.
 
-## Lab-grown protein fragments
+### Lab-grown protein fragments
 Your body learns to recognize invading viruses based on the shape of the virus' outer protein shell.  So to teach the body what to fight, most COVID vaccines include small pieces of the virus' shell that are both distinct to the virus, and likely to be recognized by the immune system.  These small pieces of protein are called "peptides".  The world is full of peptides that we eat and breathe every day, without any problem since peptides themselves are generally harmless. They are made in the cells of plants and animals, and can’t reproduce.  It is only when a peptide is combined with an adjuvant that the body learns to attack.
 
 One difference between the various COVID vaccines is how they introduce those peptides into the body.  The Moderna, Pfizer, and AstraZeneca vaccines all trick the body into making these peptides.  RaDVaC is a little bit different; it uses peptides that are made in a lab, and delivers them directly to the body (similar to the Novavax vaccine).  While the delivery methods differ, the core principle is the same - the combination of an adjuvant and the peptides teach the body what to attack.
