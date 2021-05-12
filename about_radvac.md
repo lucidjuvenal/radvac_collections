@@ -25,7 +25,7 @@ The second purpose of chitosan is as an "adjuvant"; an adjuvant is a substance t
 ### Lab-grown protein fragments
 Your body learns to recognize invading viruses based on the shape of the virus' outer protein shell.  So to teach the body what to fight, most COVID vaccines include small pieces of the virus' shell that are both distinct to the virus, and likely to be recognized by the immune system.  These small pieces of protein are called "peptides".  The world is full of peptides that we eat and breathe every day, without any problem since peptides themselves are generally harmless. They are made in the cells of plants and animals, and can’t reproduce.  It is only when a peptide is combined with an adjuvant that the body learns to attack.
 
-One difference between the various COVID vaccines is how they introduce those peptides into the body.  The Moderna, Pfizer, and AstraZeneca vaccines all trick the body into making these peptides.  RadVax is a little bit different; it uses peptides that are made in a lab, and delivers them directly to the body (similar to the Novavax vaccine).  While the delivery methods differ, the core principle is the same - the combination of an adjuvant and the peptides teach the body what to attack.
+One difference between the various COVID vaccines is how they introduce those peptides into the body.  The Moderna, Pfizer, and AstraZeneca vaccines all trick the body into making these peptides.  RadVax is a little bit different; it uses peptides that are made in a lab, and delivers them directly to the body (similar to the Novavax vaccine).  While the delivery methods differ, the core principle is the same - **the combination of an adjuvant and the peptides teach the body what to attack**.
 
 The choice of which peptides to use is one of the most important parts of any vaccine. Scientists make the decision based on several factors about peptides, including which peptides:
   - can be dissolved in water
@@ -81,7 +81,7 @@ Another challenge is the short shelf life of RadVax (around two weeks).  Unlike 
 # How does  RadVax interact with the commercial vaccines?
 You can and should take a commercial vaccine as soon as you are able to.  
 
-You can also take RadVax, as there should be no negative interactions between them. RadVax recruits a different part of the immune system than commercial vaccines (T-cells, as opposed to B-cells), so it is a complement, not a substitute.  It will provide additional protection to you and your family that you can't get from commercial vaccines, so you should still take both.
+You can also take RadVax, as there should be no negative interactions between them. RadVax recruits a different part of the immune system than commercial vaccines (T-cells, as opposed to B-cells), so it is a complement, not a substitute.  It will provide **additional protection** to you and your family that you can't get from commercial vaccines, so you should still **take both**.
 
 # In which ways is RadVax better than commercial vaccines?
 RadVax has a few strengths that commercial vaccines don't, both on the personal level, but also on a public-policy level.
